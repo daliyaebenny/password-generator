@@ -18,5 +18,5 @@ JavaScript
 **Note:** Modified only the javascript file.
 
 ### Links 
-* [*GitHub repository*](git@github.com:daliyaebenny/password-generator.git)   
+* [*GitHub repository*](https://github.com/daliyaebenny/password-generator.git)   
 * [*GitHub pages*](https://daliyaebenny.github.io/password-generator/)
