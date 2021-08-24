@@ -19,4 +19,4 @@ JavaScript
 
 ### Links 
 * [*GitHub repository*]()   
-* [*GitHub pages*]()
+* [*GitHub pages*](https://daliyaebenny.github.io/password-generator/)
